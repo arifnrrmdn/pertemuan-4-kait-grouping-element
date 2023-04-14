@@ -1,0 +1,5 @@
+NAMA  : ARIF NUR RAMADHAN
+NIM   : 10522014
+KELAS : IS-1
+
+link github : https://github.com/arifnrrmdn/pertemuan-4-kait-grouping-element.git
